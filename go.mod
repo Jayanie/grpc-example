@@ -1,4 +1,4 @@
-module github.com/joaoh82/grpccalculator
+module github.com/Jayanie/grpc-example
 
 go 1.12
 
