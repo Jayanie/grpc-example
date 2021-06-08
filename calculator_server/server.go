@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/joaoh82/grpccalculator/calculatorpb"
+	"github.com/Jayanie/grpc-example/calculatorpb"
 )
 
 type server struct{}
